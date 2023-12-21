@@ -1,7 +1,7 @@
-# Renewable Predigtion (2/3)
-## Predigtion of renewable energy analysis dashboard
+# Renewable Prediction (2/3)
+## Prediction of renewable energy analysis dashboard
 
-This is an experimental project!! The main objective of this project is to create a dashboard to analyze the data from several sources and develop a common place for these insights.This is a part of a bigger project, to check more about the first part. (links below)
+This is an experimental project!! The main objective of this project is to create a dashboard to analyze the data from several sources and develop a common place for these insights. This is a part of a bigger project, so check more about the first part. (links below)
 
 ## Medium Article
 Check the part 1 here:
