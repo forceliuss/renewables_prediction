@@ -7,7 +7,7 @@ import plotly.express as px
 import warnings
 warnings.filterwarnings('ignore')
 
-from cleaning import *
+from src.cleaning import *
 
 #Page Setup
 st.set_page_config(
