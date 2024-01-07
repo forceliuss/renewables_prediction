@@ -309,10 +309,3 @@ col2_s4.plotly_chart(
     lcoe_fig,
     use_container_width=True
 )
-
-#Define thresholds or ranges for each KPI to categorize countries into classes (e.g., low, medium, high).
-#Total Renewable Energy Production (in GWh) per capita.
-#Percentage share of each renewable source in the total energy mix.
-#Average LCOE for each renewable source.
-#Total investments in renewable energy (in millions of dollars) per capita.
-#Percentage share of investments in each energy source.

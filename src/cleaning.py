@@ -20,6 +20,7 @@ def renewable_by_country():
     
     sources = ['Hydropower','Onshore wind','Offshore wind','Solar','Solar photovoltaic']
     df = df[df['Technology'].isin(sources)]
+
     
     return df
 
