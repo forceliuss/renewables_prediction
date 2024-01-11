@@ -1,6 +1,7 @@
 
 import pandas as pd
 from pandas.api.types import CategoricalDtype
+import seaborn as sns
 
 import numpy as np
 

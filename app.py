@@ -110,11 +110,11 @@ else:
 
 #KPIs classification
 
-if production_percap >= 1000:
-    tag = 'Very Hight'
+if production_percap >= 1500:
+    tag = 'Very High'
     tag_color = 'normal'
 elif production_percap >= 500:
-    tag = 'Hight'
+    tag = 'High'
     tag_color = 'normal'
 elif production_percap >= 250:
     tag = 'Medium'
